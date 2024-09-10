@@ -1,8 +1,8 @@
-## Interface: 110002
+## Interface: 110005
 ## Title:|cffd6266cFastItemDelete|r
 ## Notes: With this addon it is no longer necessary to type the word delete when you want to throw away a special item.
 ## Author: BloodDragon2580
-## Version: 3.8
+## Version: 3.9
 ## IconTexture: Interface\AddOns\FastItemDelete\Media\Texture\logo
 
 embeds.xml
